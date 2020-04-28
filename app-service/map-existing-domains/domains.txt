@@ -1,0 +1,3 @@
+domain1.com
+domain2.com
+etc.com
